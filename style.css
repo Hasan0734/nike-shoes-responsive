@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background: #FFF9F4;
+}
+
+.navbar-brand {
+    width: 50%;
+}
+
+.nav-link,
+.navbar-brand a {
+    color: black !important;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.headline span {
+    color: #FA804C;
+}
+
+.headline {
+    color: #363958;
+    font-size: 80px;
+    font-style: normal;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.text {
+    width: 360px;
+    color: #3E3E3E;
+}
+
+.buy-now {
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 15px 30px;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    border: none;
+}
+
+.buy-now:hover {
+    color: #FFFFFF;
+}
+
+.section-title {
+    font-size: 48px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+
+.card-img {
+    height: 257px;
+    width: 210px;
+}
+
+.img-area {
+    background: #F1F1F1;
+    border-radius: 20px;
+}
+
+.card {
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+
+.card-title {
+    font-size: 24px;
+    color: #363958;
+}
+
+.price {
+    color: #FA804C;
+    font-size: 36px;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.store-list {
+    margin-top: 7rem;
+}
+
+.list-title {
+    color: #363958;
+    font-size: 24px;
+    font-style: normal;
+}
+
+footer {
+    background: #030721;
+}
+
+.contact-icon {
+    margin: 5px;
+    background: #54545454;
+    padding: 9px;
+    border-radius: 50%;
+    width: 43px;
+    text-align: center;
+}
+
+.social-icon i {
+    margin: 5px;
+    background: #54545454;
+    padding: 10px;
+    border-radius: 50%;
+    width: 36px;
+    text-align: center;
+}
